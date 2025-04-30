@@ -8,6 +8,7 @@
     font-weight: normal;
 
 }
+/*:root é uma forma de regras gerais para serem usadas no documento em outro momento*/
 :root {
     --cor0: #ebe5c5;
     --cor1: #83e1ad;
@@ -21,6 +22,7 @@
     --fonte-android: 'Android', sans-serif;
 }
 
+/*Regra geral para todo o site*/
 * {
     margin: 0px;
     padding: 0px;
